@@ -1,1 +1,3 @@
 This repository contains the codes for machine learning the phase transitions in materials. This is part of my PhD project to study phase transitions through machine learning techniques.
+
+Metropolis Monte Carlo was used to simulate Ising model and interacting Jahn-Teller systems. The simulations were performed in a range of temperatures and a 2D PCA was used to project the data points on a 2D plane. The results clearly show how the data points cluster depending on their temperature. The high-temperature disordered phase forms a cluster around the (0,0) point, while the ordered structures form clusters elsewhere.
